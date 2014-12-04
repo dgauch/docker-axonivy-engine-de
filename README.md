@@ -10,7 +10,7 @@ Hints
 
 Use the following parameter to show the installed system applications on the Axon.ivy engine index page:
 
-	http://docker:8081/ivy/info/index.jsp?showSystemApp=true
+	http://[axonivy_engine_hostname]:8081/ivy/info/index.jsp?showSystemApp=true
 
 Have fun!
 
